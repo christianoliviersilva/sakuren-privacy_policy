@@ -6,7 +6,7 @@ Privacy Policy ||
  use your data is of utmost importance to the
  trust between you, the user and our Services.
 
-1. Information Collected
+### 1. Information Collected
 
 In order to provide the best of our Services,
 Sakuren collects the following data:
@@ -38,7 +38,7 @@ searches and information via Google account. For more information access: '
 
 https://support.google.com/admob/answer/9930897?hl=pt-BR
 
-2. Published Information,
+### 2. Published Information,
 
 By registering and creating an account, you connect to all
 users who enjoy the same Services as you
@@ -53,7 +53,7 @@ With that in mind, be careful what you make available to everyone.
 It's also important to remember that it's against the rules (collectively "Violations of Terms")
 any type of publication that deviates from the theme proposed by the Application.
 
-3. How We Treat Your Information,
+### 3. How We Treat Your Information,
 
 We use your information to obtain better ways
 to protect your account, with this data we can ensure
@@ -64,7 +64,7 @@ changes to the Services. That way you will always be aware of our improvements.
 If you feel insecure with your account in any way,
 please send us an email to: sakurenapp@gmail.com
 
-4. Private Messages
+### 4. Private Messages
 
 1.1 - Using our Services, you are free to call
 other users to chat, however as stated in
@@ -80,7 +80,7 @@ remains intact. Therefore, only you and the user you are talking to have access 
 We also guarantee that we do not use your communication data to provide in advertising vehicles & third parties.
 
 
-5. VIP Plans & Payments
+### 5. VIP Plans & Payments
 
 As explained in the Terms of Use - Article 4. Vip Plans,
 there are three types of Vip Plans in our Services,
@@ -92,7 +92,7 @@ and there you can read in detail the methods and how to get your Plan of choice.
 
 If in doubt, visit our Help Center so we can help you.
 
-6. General
+### 6. General
 
 In the search for the best performance of our Services,
 it is possible that there will be changes or discontinuations of any part of the Services
